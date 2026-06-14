@@ -1,6 +1,6 @@
 ---
-name: martial-arts-curriculum-builder
-description: For martial arts / BJJ / Aikido academy owners. Turn your grading syllabus into a repeatable curriculum (week-by-week training plans) AND single-class lesson plans, each with a ready-to-post promo caption. Systematize what you already teach, then reuse it as content you can share or sell.
+Name: martial-arts-curriculum-builder
+Description: For martial arts / BJJ / Aikido academy owners. Turn your grading syllabus into a repeatable curriculum (week-by-week training plans) AND single-class lesson plans, each with a ready-to-post promo caption. Systematize what you already teach, then reuse it as content you can share or sell.
 ---
 
 # Martial Arts Curriculum Builder
