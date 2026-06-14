@@ -1,5 +1,5 @@
 # build-once
-> Small, single-job Claude Code skills. Build the process once, let it run.
+> Build the process once. Let it run.
 
 Small, single-job Claude Code skills. Each one takes something you do by hand and turns it into a repeatable little machine you can run, reuse, or build on. Take them, use them, and if you improve one, open a pull request.
 
